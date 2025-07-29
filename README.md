@@ -7,6 +7,6 @@ It provides **Jupyter notebooks (`.ipynb`)** for the numerical experiments evalu
 - **Fused Lasso** (1D total variation)
 - **GraphNet** (2D grid graphs)
 - **Sparse Logistic Regression** (LIBSVM datasets: `a9a`, `ijcnn1`, `mushrooms`)
-- **Image Inpainting** (TV–$L_2$ and TV–$L_1$)
+- **Image Inpainting** (TV–$L_2$)
 
 Each application has its own folder with a self‑contained notebook that reproduces the figures and results reported in the paper.
