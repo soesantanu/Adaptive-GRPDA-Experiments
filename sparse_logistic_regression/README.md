@@ -1,1 +1,0 @@
-sparse_logistic_regression/README.md
