@@ -1,2 +1,5 @@
-In this experiment, we tested our proposed Algorithm 2 and Algorithm 3 on the standard datasets a9a, mushrooms, and ijcnn1, and compared them with some of the related methods. Some parts of this code are taken from Yura Malitsky's GitHub (graal).
+In this experiment, we evaluate our proposed Algorithms~2 and~3 on the standard LIBSVM datasets \texttt{a9a}, \texttt{mushrooms}, and \texttt{ijcnn1}, and compare their performance with several related methods. Portions of the implementation are adapted from Yura Malitsky's public \texttt{graal} codebase on GitHub.
+
+We consider two convex regularizers combined with the logistic loss (Settings~1 and~2) and report results for both settings on the above datasets; see the paper for the precise problem formulations and parameter choices.
+
 
