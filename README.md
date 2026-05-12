@@ -1,4 +1,4 @@
-# Numerical Experiments for Adaptive Golden-Ratio Primal--Dual Algorithms
+# Numerical Experiments for Adaptive and Partially Adaptive GRPDA Algorithms
 
 This repository contains the Python notebooks used for the numerical experiments in the paper
 
