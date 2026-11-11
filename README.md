@@ -8,6 +8,9 @@ by **Santanu Soe, Matthew K. Tam, and V. Vetrivel**.
 The paper is available on arXiv:  
 [https://arxiv.org/abs/2502.17918](https://arxiv.org/abs/2502.17918)
 
+## Note
+The Python code in the previous repo had bugs when running, so I've fixed them here. The current code generates the exact figures used in the paper https://arxiv.org/abs/2502.17918.
+
 ## Overview
 
 The notebooks in this repository reproduce the numerical experiments reported in the paper. The experiments evaluate adaptive and partially adaptive stepsize rules for golden-ratio primal--dual algorithms for convex--concave saddle-point problems.
