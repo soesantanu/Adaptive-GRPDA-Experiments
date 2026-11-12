@@ -9,7 +9,7 @@ The paper is available on arXiv:
 [https://arxiv.org/abs/2502.17918](https://arxiv.org/abs/2502.17918)
 
 ## Note
-The Python code in the previous repo had bugs when running, so I've fixed them here. The current code generates the exact figures used in the paper https://arxiv.org/abs/2502.17918.
+The Python code in the previous repo had bugs, so the code was not running. I've fixed them here. The current code generates the exact figures used in the paper https://arxiv.org/abs/2502.17918.
 
 ## Overview
 
